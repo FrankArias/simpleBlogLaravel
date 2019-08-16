@@ -75,7 +75,11 @@ The Laravel framework is open-source software licensed under the [MIT license](h
 comandos utiles
 
 para correr en local
+
 php artisan serve
+
 php artisan make:auth
+
 php artisan make:model (NOMBRE DEL MODELO) (-m : Para crear una tabla)
+
 php artisan migrate
